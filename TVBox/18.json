@@ -13,7 +13,7 @@
       "key": "❤91麻豆",
       "name": "❤91麻豆源",
       "type": 1,
-      "api": "https://github.com/leelalabobo/demo/tv/vod/91md.me_api.php_provide_vod_.html",
+      "api": "https://leelalabobo.github.io/TVBox/m/91md.me_api.php_provide_vod_.html",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -22,7 +22,7 @@
       "key": "❤色猫资源",
       "name": "❤色猫资源",
       "type": 1,
-      "api": "https://github.com/leelalabobo/demo/tv/vod/api.maozyapi.com_inc_apijson_vod.php.html",
+      "api": "https://leelalabobo.github.io/TVBox/m/api.maozyapi.com_inc_apijson_vod.php.html",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -31,7 +31,7 @@
       "key": "❤花魁资源",
       "name": "❤花魁资源",
       "type": 1,
-      "api": "https://github.com/leelalabobo/demo/tv/vod/caiji.huakuiapi.com_inc_apijson_vod.php.html",
+      "api": "https://leelalabobo.github.io/TVBox/m/caiji.huakuiapi.com_inc_apijson_vod.php.html",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -40,7 +40,7 @@
       "key": "❤色窝资源",
       "name": "❤色窝资源",
       "type": 1,
-      "api": "https://github.com/leelalabobo/demo/tv/vod/sewozyapi.com_api.php_provide_vod_.html",
+      "api": "https://leelalabobo.github.io/TVBox/m/sewozyapi.com_api.php_provide_vod_.html",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
@@ -868,6 +868,6 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  "wallpaper": "https://tool.weetai.cn/api/images/05.png",
-  "spider": "https://github.com/leelalabobo/demo/tv/tv.jar"
+  "wallpaper": "https://leelalabobo.github.io/TVBox/res/05.png",
+  "spider": "https://leelalabobo.github.io/TVBox/jar/vod.jar"
 }
